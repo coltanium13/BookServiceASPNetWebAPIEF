@@ -104,4 +104,3 @@ C:\Users\colton\source\repos\BookServiceASPNetWebAPIEF\BookService\obj\Debug\Boo
 C:\Users\colton\source\repos\BookServiceASPNetWebAPIEF\BookService\obj\Debug\BookService.csproj.CoreCompileInputs.cache
 C:\Users\colton\source\repos\BookServiceASPNetWebAPIEF\BookService\obj\Debug\BookService.dll
 C:\Users\colton\source\repos\BookServiceASPNetWebAPIEF\BookService\obj\Debug\BookService.pdb
-C:\Users\colton\source\repos\BookServiceASPNetWebAPIEF\BookService\obj\Debug\BookService.csprojResolveAssemblyReference.cache
